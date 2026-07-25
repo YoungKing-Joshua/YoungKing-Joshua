@@ -1,49 +1,75 @@
- ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Joshua Dei-Alorse</h1>
-<h3 align="center">A Software Engineer & Data Analyst from Ghana.</h3>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="YoungKing-Joshua" /> </p>
+<img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png" width="100%" alt="Banner"/>
 
-<p align="left"> <a href="https://twitter.com/youngking__Jay" target="blank"><img src="https://img.shields.io/twitter/follow/youngking_Jay?logo=twitter&style=for-the-badge" alt="youngking_Jay" /></a> </p>
+# Hi, I'm Joshua Dei-Alorse 👋
 
-- 🎓 Recent graduate of <a href="https://www.alxafrica.com/software-engineering/" target="_blank" style="color: black; font-weight: bold;">ALX - Holberton Software Engineering Programme</a>
+### Full-Stack Software Engineer & Data Analyst — Accra, Ghana 🇬🇭
 
-- 👯 I’m looking to collaborate on Projects related to **JavaScript, Python, C, SQL and Dart**.
+<img src="https://komarev.com/ghpvc/?username=YoungKing-Joshua&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 💼 I’m looking for help with _Internships, Job openings and Oppourtunities that will further contibute to my growth as a Data Analyst & software engineer_
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-dei-alorse-ba9157236/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/youngking__Jay)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuadeialorse@gmail.com)
 
-- 💬 You can ask me about **Automatic Identification Systems**
+</div>
 
-- 📫 How to reach me **joshuadeialorse@gmail.com**
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoungKing-Joshuax&label=Profile%20views&color=0e75b6&style=flat" alt="youngking-joshua" /> </p>
+### 🧭 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/youngking__Jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youngking_jay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/joshua-dei-alorse-ba9157236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua dei-alorse" height="30" width="40" /></a>
-<a href="https://web.facebook.com/joshua.deialorse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua dei-alorse" height="30" width="40" /></a>
-<a href="https://instagram.com/youngking_ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youngking_ajay" height="30" width="40" /></a>
-</p>
-<!--
-  gif section
+Full-Stack Software Engineer passionate about building scalable web applications and turning data into actionable insights. I build end-to-end solutions with JavaScript, TypeScript, Node.js, Express, React, Next.js, PostgreSQL, and MongoDB, and use Python, Pandas, SQL, and statistical analysis to extract value from data. I also develop WordPress solutions, and have some hands-on experience building cross-platform mobile apps with Flutter.
 
- <img align="left" width='400' hieght='200' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
--->
-<!--<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
-<br clear='all'/> -->
+- 🔭 Currently building full-stack applications with Next.js, TypeScript, and WordPress while expanding my data analytics portfolio
+- 📊 Experienced in exploratory data analysis (EDA), statistics, regression, and data visualization
+- 📱 Some hands-on experience with Flutter for cross-platform mobile apps
+- 🤝 Open to freelance, internship, and full-time opportunities in Software Engineering and Data Analytics
+- 📫 Reach me at **joshuadeialorse@gmail.com**
 
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-</p>
+---
 
-<p><img width='400' hieght='500' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungKing-Joshua&show_icons=true&locale=en&layout=compact" alt="youngking-joshua" /></p>
-<!--
-<p>&nbsp;<img align="center" width='400' src="https://github-readme-stats.vercel.app/api?username=YoungKing-Joshua&show_icons=true&locale=en" alt="youngking-joshua" /></p>
--->
-<p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com/?user=YoungKing-Joshua&" alt="youngking-joshua" /></p>
+### 🛠️ Skills & Tools
+
+**Web Development**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Analysis & Science**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
+**Mobile (minor)**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=YoungKing-Joshua&show_icons=true&theme=default" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YoungKing-Joshua&layout=compact" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoungKing-Joshua" alt="streak stats"/>
+
+</div>
