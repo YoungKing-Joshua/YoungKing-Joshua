@@ -2,7 +2,7 @@
 
 <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png" width="100%" alt="Banner"/>
 
-# Hi, I'm Joshua Dei-Alorse 👋
+# Hi, I'm Joshua Elikplim Dei-Alorse 👋
 
 ### Full-Stack Software Engineer & Data Analyst — Accra, Ghana 🇬🇭
 
